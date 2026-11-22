@@ -3,4 +3,4 @@ def add(a, b):
 
 
 if __name__ == "__main__":
-    print(add(5, 3))
+    print(add(10, 2))
